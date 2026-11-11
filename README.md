@@ -1,16 +1,17 @@
 Hi, I'm Rifat Rahman 👋
 
-Backend Engineer | NestJS • TypeScript • Microservices • System Design
+Full-Stack Engineer (Strong in Backend) | NestJS • Node.js • TypeScript • Microservices
 Currently building scalable systems at Four H · Previously at ShareTrip & BizReflex
 
 
 
 What I do
 
-I design and build reliable backend services that handle real production load.
-My focus: clean architecture, performance, and systems that are easy to operate and evolve.
+Full-stack engineer with a strong backend core. I primarily design and build reliable services with NestJS, Node.js, and TypeScript, and can own the frontend when needed.
+I regularly use AI tools in my daily workflow to ship faster while keeping full ownership of quality and architecture.
 
-Core stack: NestJS, TypeScript, PostgreSQL / MySQL, RabbitMQ, Redis, Docker, AWS
+Core stack: NestJS, Node.js, TypeScript, PostgreSQL, MySQL, MongoDB, RabbitMQ, Redis, Docker, AWS
+Also used in side projects: C#, Python
 
 
 
@@ -58,18 +59,18 @@ Quick Links
 
 
 
-Portfolio: https://nc-rifat-rahman.github.io/
+Portfolio:https://nc-rifat-rahman.github.io/
 
 
 
-LinkedIn: linkedin.com/in/nc-rifat-rahman
+LinkedIn:https://linkedin.com/in/nc-rifat-rahman
 
 
 
 GitHub: github.com/NC-Rifat-Rahman
 
-Open to fullstack/ backend / platform engineering roles (NestJS, TypeScript, React, NextJS, microservices, system design).
+Open to full-stack / backend / platform engineering roles (NestJS, TypeScript, microservices, system design).
 
 
 
-Competitive programming background • Clean code • Observable systems
+Competitive programming background • Clean code • Observable systems • AI-assisted workflow
